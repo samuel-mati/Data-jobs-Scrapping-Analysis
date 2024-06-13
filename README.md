@@ -50,7 +50,7 @@ Highly Correlated Features:
 Selected features based on their correlation to ensure the model is built using the most informative features.
 ## Requirements
 The following Python libraries are required to run the code:
--[Pandas]
+- Pandas
 - [requests]
 - [beautifulsoup4]
 - [matplotlib]
