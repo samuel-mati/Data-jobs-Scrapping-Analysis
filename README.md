@@ -51,7 +51,13 @@ Selected features based on their correlation to ensure the model is built using 
 ## Requirements
 The following Python libraries are required to run the code:
 - Pandas
-- [requests]
-- [beautifulsoup4]
-- [matplotlib]
-- [seaborn]
+- requests
+- beautifulsoup4
+- matplotlib
+- seaborn
+- wordcloud
+- count
+
+# License
+
+This README file provides a detailed explanation of each step in the analysis process, from data scraping to feature selection, ensuring that anyone can understand and replicate the analysis.
